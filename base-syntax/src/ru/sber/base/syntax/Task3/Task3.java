@@ -1,6 +1,6 @@
 package ru.sber.base.syntax.Task3;
 
-public class Task {
+public class Task3 {
     public static void main(String[] args) {
         int n = 6;
         int m = 19;

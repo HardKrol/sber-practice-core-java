@@ -1,6 +1,6 @@
 package ru.sber.base.syntax.Task8;
 
-public class Task {
+public class Task8 {
     public static void main(String[] args) {
         int arrSize = 30;
         int[] arr = new int[arrSize];

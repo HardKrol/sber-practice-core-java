@@ -2,7 +2,7 @@ package ru.sber.base.syntax.Task9;
 
 import java.util.Scanner;
 
-public class Task {
+public class Task9 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         char letBig = (char)('A' + Math.round(Math.random()*26));
